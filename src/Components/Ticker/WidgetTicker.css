@@ -1,0 +1,9 @@
+.footer_ticker{
+    position: absolute;
+    
+}
+
+.footer_ticker> .ticker{
+    height: fit-content;
+    
+}
